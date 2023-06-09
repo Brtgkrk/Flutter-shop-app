@@ -24,8 +24,8 @@ Install dependencies: flutter pub get
 Run the app: flutter run
 
 ## Screenshots
-![1](https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/7b99eb9d-388b-41ff-8e43-aada315cdd89 | width=100)
-![2](https://githu![3](https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/a5e3f4b2-1221-4230-9454-71b9a3f183a9| width=100)
-![3](https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/1b179a14-31a4-4905-a2f1-07895154edd0| width=100)
-![4](https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/87b42ff6-4598-4f69-88f8-2080bad16745| width=100)
+<img src="https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/7b99eb9d-388b-41ff-8e43-aada315cdd89" width="100">
+<img src="https://githu![3](https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/a5e3f4b2-1221-4230-9454-71b9a3f183a9" width="100">
+<img src="https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/1b179a14-31a4-4905-a2f1-07895154edd0" width="100">
+<img src="https://github.com/Brtgkrk/Flutter-shop-app/assets/50359069/87b42ff6-4598-4f69-88f8-2080bad16745" width="100">
 
